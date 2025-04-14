@@ -19,7 +19,7 @@ int main() {
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
     //Variaveis
-    char estado1, estado2;
+    char estado1[1], estado2[1];
     char codigo_da_carta1[4], codigo_da_carta2[4];
     char nome_da_cidade1[100], nome_da_cidade2[100];
     int populacao1, populacao2;
